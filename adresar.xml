@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE autoOglas SYSTEM "adresar.dtd">
+<autoOglas>
+    <automobil>
+        <model tip="">
+
+        </model>
+        <farba tip="">
+
+        </farba>
+        <transmisija>
+
+        </transmisija>
+    </automobil>
+
+</autoOglas>
+iuhzhg
