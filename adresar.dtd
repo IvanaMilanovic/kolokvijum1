@@ -1,0 +1,8 @@
+<!ELEMENT autoOglas (automobil)+>
+        <!ELEMENT automobil(model,farba,transmisija,gorivo)>
+        <!ELEMENT model (#PCDATA)>
+<!ATTLIST model tip CDATA #IMPLIED>
+        <!ELEMENT farba (#PCDATA)>
+<!ATTLIST farba tip (akril|metalik) #REQUIRED>
+        <!ELEMENT transmisija (#PCDATA)>
+        <!ATTLIST transmisija tip (manuelni|auto) #REQUIRED
